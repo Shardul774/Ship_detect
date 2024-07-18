@@ -15,6 +15,10 @@
     - https://dl.sipeed.com/MAIX/MaixPy/release/master/ **(Download Site)**
     - **For this project I have provided the support bin file**
 
+**Training Model**
+- https://maixhub.com/
+- I have already trained a model on dataset of 3000 images as shown further in README.md, you can get the required trained model file for this project in repository.
+
 ## Dataset
 
 The dataset consists of 2 labels and 3000 images. The composition is as follows:
