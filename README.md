@@ -1,7 +1,6 @@
 # Ship Detect
 
 ## Results
--Results:
 ![](https://github.com/Shardul774/Ship_detect/blob/main/Img/img1.jpg)
 ![](https://github.com/Shardul774/Ship_detect/blob/main/Img/img2.jpg)
 ![](https://github.com/Shardul774/Ship_detect/blob/main/Img/img3.jpg)
