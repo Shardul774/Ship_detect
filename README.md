@@ -6,7 +6,7 @@
 
 **Software**
 - Kflash GUI:
-- - https://github.com/sipeed/kflash_gui/releases **(Download Site)**
+   - https://github.com/sipeed/kflash_gui/releases **(Download Site)**
 - MaixPy IDE:
    - https://wiki.sipeed.com/soft/maixpy/en/get_started/env_maixpyide.html **(Documentation)**
    - https://dl.sipeed.com/shareURL/MAIX/MaixPy/ide/v0.2.5 **(Download Site)**
