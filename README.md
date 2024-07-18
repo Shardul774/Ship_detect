@@ -8,7 +8,6 @@
 ![](https://github.com/Shardul774/Ship_detect/blob/main/Img/img4.jpg)
 ![](https://github.com/Shardul774/Ship_detect/blob/main/Img/img5.jpg)
 
-
 ## Requirements
 
 **Board**
