@@ -1,6 +1,16 @@
 # Ship Detect
-## Board 
+## Requirements
+
+** Board **
 https://wiki.sipeed.com/hardware/en/maix/maixpy_develop_kit_board/maix_duino.html
+
+** Software **
+- Kflash GUI: https://github.com/sipeed/kflash_gui/releases **(Download Site)**
+- MaixPy IDE: https://wiki.sipeed.com/soft/maixpy/en/get_started/env_maixpyide.html **(Documentation)**
+              https://dl.sipeed.com/shareURL/MAIX/MaixPy/ide/v0.2.5 **(Download Site)**
+- Micropython firmware for Maix boards: https://wiki.sipeed.com/soft/maixpy/en/get_started/upgrade_maixpy_firmware.html#Download-the-firmware-to-the-development-board **(Documentation)**
+                                        https://dl.sipeed.com/MAIX/MaixPy/release/master/ **(Download Site)**
+                                      **For this project I have provided the support bin file**
 
 ## Dataset
 
