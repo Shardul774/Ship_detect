@@ -1,4 +1,6 @@
 # Ship Detect
+## Board 
+https://wiki.sipeed.com/hardware/en/maix/maixpy_develop_kit_board/maix_duino.html
 
 ## Dataset
 
